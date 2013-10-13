@@ -75,8 +75,8 @@ if(!(where.exe git)){
 	}
 }
 
-git config --global user.email jason@elegantcode.com
-git config --global user.name 'Jason Jarrett'
+git config --global user.email patrice@sallandre.com
+git config --global user.name 'Patrice Sallandre'
 git config --global color.status.changed "cyan normal bold" 
 git config --global color.status.untracked "cyan normal bold"
 
